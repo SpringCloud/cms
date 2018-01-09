@@ -31,7 +31,7 @@
   .ft {
     position: relative;
     padding: 40px 0 30px 0;
-    width: 960px;
+    width: 61.94%;
   }
 
   .ft .slogan {
@@ -50,13 +50,13 @@
 
   .ft .ft_item {
     float: left;
-    width: 140px;
+    min-width: 14.5%;
     line-height: 22px;
   }
 
   .ft .ft_item a {
     color: #999;
-    padding: 2px 10px 2px 5px;
+    /*padding: 2px 10px 2px 5px;*/
   }
 
   .ft .ft_item a:hover {
